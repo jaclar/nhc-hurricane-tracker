@@ -1,0 +1,35 @@
+name: NHC Hurricane Tracker
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Check every 30 minutes
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Check Feeds and Notify
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
+          NOTIFY_UPDATES: ${{ vars.NOTIFY_UPDATES || 'true' }}
+        run: python check_hurricanes.py
+
+      - name: Commit and Push State Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add last_seen.json
+          git diff-index --quiet HEAD last_seen.json || (git commit -m "Update tracker state [skip ci]" && git push)
