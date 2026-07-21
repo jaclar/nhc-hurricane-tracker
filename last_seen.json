@@ -143,7 +143,9 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/212057.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/212053.shtml",
     "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/205743.shtml?cone",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/205743.shtml?inundation"
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/205743.shtml?inundation",
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/212236.shtml?cone",
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/212236.shtml?inundation"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
