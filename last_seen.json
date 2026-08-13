@@ -245,7 +245,12 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/130846.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/130847.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/130847.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/092244.shtml?cone"
+    "https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/092244.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/131459.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/131458.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/131459.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/131459.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/152301.shtml?cone"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
