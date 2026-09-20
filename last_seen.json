@@ -348,7 +348,12 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/200236.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/200237.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/200237.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032247.shtml?cone"
+    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032247.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/200841.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/200840.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/200842.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/200841.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/092300.shtml?cone"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
@@ -359,6 +364,7 @@
     "2026_ATLANTIC_DOLLY",
     "2026_ATLANTIC_FIVE",
     "2026_ATLANTIC_EDOUARD",
-    "2026_ATLANTIC_SIX"
+    "2026_ATLANTIC_SIX",
+    "2026_ATLANTIC_FAY"
   ]
 }
