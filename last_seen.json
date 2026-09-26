@@ -1,13 +1,5 @@
 {
   "seen_guids": [
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/161456.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/161455.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/161457.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/161456.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/152209.shtml?cone",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/161758.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/181239.shtml?cone",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/162050.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/162049.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/162050.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/162050.shtml",
@@ -497,7 +489,17 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/261439.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/261441.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/261440.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/152924.shtml?cone"
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/152924.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/262037.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/262037.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/262038.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/262038.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/204026.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/262037.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/262035.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/262038.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/262037.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/204016.shtml?cone"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
