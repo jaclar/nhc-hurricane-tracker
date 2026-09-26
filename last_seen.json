@@ -487,7 +487,17 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/260845.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/260848.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/260847.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/092900.shtml?cone"
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/092900.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/261437.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/261437.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/261438.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/261438.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/152315.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/261440.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/261439.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/261441.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/261440.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/152924.shtml?cone"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
