@@ -1,15 +1,5 @@
 {
   "seen_guids": [
-    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/172053.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/212600.shtml?cone",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/172331.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/014156.shtml?cone",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/180248.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/180247.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/180249.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/180248.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/032016.shtml?cone",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/191450.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/191450.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/191452.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT2+shtml/191451.shtml",
@@ -499,7 +489,17 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/280846.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/280845.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/280848.shtml",
-    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/280846.shtml"
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/280846.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/281439.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT1+shtml/281438.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT1+shtml/281439.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT1+shtml/281439.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at1+shtml/152318.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT3+shtml/281500.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT3+shtml/281459.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT3+shtml/281500.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT3+shtml/281500.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at3+shtml/152926.shtml?cone"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
@@ -512,6 +512,7 @@
     "2026_ATLANTIC_EDOUARD",
     "2026_ATLANTIC_SIX",
     "2026_ATLANTIC_FAY",
-    "2026_ATLANTIC_GONZALO"
+    "2026_ATLANTIC_GONZALO",
+    "2026_ATLANTIC_HANNA"
   ]
 }
