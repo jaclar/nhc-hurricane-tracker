@@ -1,11 +1,5 @@
 {
   "seen_guids": [
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/092302.shtml?inundation",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/092302.shtml?wsurge",
-    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/211141.shtml",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115333.shtml?cone",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115333.shtml?inundation",
-    "https://www.nhc.noaa.gov/refresh/graphics_at2+shtml/115333.shtml?wsurge",
     "https://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/211454.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCMAT2+shtml/211454.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT2+shtml/211457.shtml",
@@ -499,7 +493,13 @@
     "https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/062039.shtml",
     "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/062038.shtml",
     "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/212229.shtml?cone",
-    "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/013903.shtml?cone"
+    "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/013903.shtml?cone",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/070852.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCMAT4+shtml/070849.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIATCDAT4+shtml/070857.shtml",
+    "https://www.nhc.noaa.gov/text/refresh/MIAPWSAT4+shtml/070852.shtml",
+    "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/092226.shtml?cone",
+    "https://www.nhc.noaa.gov/refresh/graphics_at4+shtml/092226.shtml?inundation"
   ],
   "seen_storms": [
     "2026_ATLANTIC_ONE",
@@ -514,6 +514,7 @@
     "2026_ATLANTIC_FAY",
     "2026_ATLANTIC_GONZALO",
     "2026_ATLANTIC_HANNA",
-    "2026_ATLANTIC_NINE"
+    "2026_ATLANTIC_NINE",
+    "2026_ATLANTIC_ISAIAS"
   ]
 }
